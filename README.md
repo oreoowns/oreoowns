@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oreoowns i'm a decent java developer with somewhat respectable C++/C knowledges
+- 👀 I’m interested in 2b2t and automation
+- 🌱 I’m currently learning more java, python, c
+- 💞️ I’m looking to collaborate on some projects
+- 📫 How to reach me oreo#3965
